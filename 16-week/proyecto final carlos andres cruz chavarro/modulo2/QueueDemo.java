@@ -1,0 +1,1 @@
+package modulo2; public class QueueDemo{ public static void ejecutar(){ System.out.println("Cola funcionando"); }}
