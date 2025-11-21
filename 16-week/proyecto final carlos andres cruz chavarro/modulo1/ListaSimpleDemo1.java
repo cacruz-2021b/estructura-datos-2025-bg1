@@ -1,1 +1,0 @@
-package modulo1; public class ListaSimpleDemo1{ public static void ejecutar(){ System.out.println("Lista simple funcionando"); }}

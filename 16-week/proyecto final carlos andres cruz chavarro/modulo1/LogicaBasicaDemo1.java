@@ -1,1 +1,0 @@
-package modulo1; public class LogicaBasicaDemo1{ public static void ejecutar(){ System.out.println("Lógica básica funcionando"); }}

@@ -1,1 +1,0 @@
-package modulo2; public class StackDemo{ public static void ejecutar(){ System.out.println("Pila funcionando"); }}

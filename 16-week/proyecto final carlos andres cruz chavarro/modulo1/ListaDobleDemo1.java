@@ -1,1 +1,0 @@
-package modulo1; public class ListaDobleDemo1{ public static void ejecutar(){ System.out.println("Lista doble funcionando"); }}
